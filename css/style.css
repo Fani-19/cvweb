@@ -2,3 +2,35 @@
 .contenido{
     display:none;
 }
+body{
+   background-color: rgb(229, 203, 248);
+}
+.cabecera{
+    padding: 20px;
+    margin: 0 0 25px;
+    overflow: hidden;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 3px solid rgb(243, 239, 239);
+
+}
+.caja{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(68, 67, 67);
+    background-color: rgb(196, 166, 219);
+    padding: 20px;
+    margin: 0 0 25px;
+    overflow: hidden;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 3px solid rgb(244, 239, 248);
+    text-align: center;
+
+}
+.datos{
+    text-align: center; 
+}
