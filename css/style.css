@@ -3,7 +3,7 @@
     display:none;
 }
 body{
-   background:linear-gradient(to bottom,rgb(219, 218, 218),white);
+   background:linear-gradient(to bottom,rgb(192, 188, 188),white);
 }
 .cabecera{
     padding: 20px;
@@ -12,7 +12,7 @@ body{
     border-radius: 35px 0px 35px 0px;
     -moz-border-radius: 35px 0px 35px 0px;
     -webkit-border-radius: 35px 0px 35px 0px;
-    border: 3px solid rgb(243, 239, 239);
+    border: 8px solid rgb(255, 254, 255);
 
 }
 .caja{
@@ -27,7 +27,7 @@ body{
     border-radius: 35px 0px 35px 0px;
     -moz-border-radius: 35px 0px 35px 0px;
     -webkit-border-radius: 35px 0px 35px 0px;
-    border: 8px solid rgb(244, 239, 248);
+    border: 8px solid rgb(255, 254, 255);
     text-align: center;
 
 }
@@ -41,9 +41,10 @@ body{
      height: 60px;
      width: 390px;
     font-size: 16;
+    border: 5px solid rgb(255, 254, 255);
 }
 #botones{
+
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    justify-content: center;
 }
